@@ -1,0 +1,1902 @@
+[
+	{
+		"id": "0",
+		"sex": "male",
+		"age": "21",
+		"evidence": [
+			{
+				"id": "s_1193",
+				"choice": "unknown"
+			},
+			{
+				"id": "s_1193",
+				"choice": "absent"
+			},
+			{
+				"id": "s_418",
+				"choice": "unknown"
+			}
+		]
+	},
+	{
+		"id": "1",
+		"sex": "male",
+		"age": "61",
+		"evidence": [
+			{
+				"id": "s_418",
+				"choice": "unknown"
+			},
+			{
+				"id": "s_418",
+				"choice": "absent"
+			},
+			{
+				"id": "s_418",
+				"choice": "absent"
+			}
+		]
+	},
+	{
+		"id": "2",
+		"sex": "male",
+		"age": "58",
+		"evidence": [
+			{
+				"id": "s_1193",
+				"choice": "unknown"
+			},
+			{
+				"id": "s_418",
+				"choice": "present"
+			},
+			{
+				"id": "s_418",
+				"choice": "absent"
+			}
+		]
+	},
+	{
+		"id": "3",
+		"sex": "male",
+		"age": "52",
+		"evidence": [
+			{
+				"id": "s_418",
+				"choice": "absent"
+			},
+			{
+				"id": "s_1193",
+				"choice": "present"
+			},
+			{
+				"id": "s_488",
+				"choice": "unknown"
+			}
+		]
+	},
+	{
+		"id": "4",
+		"sex": "male",
+		"age": "29",
+		"evidence": [
+			{
+				"id": "s_1193",
+				"choice": "unknown"
+			},
+			{
+				"id": "s_1193",
+				"choice": "unknown"
+			},
+			{
+				"id": "s_488",
+				"choice": "absent"
+			}
+		]
+	},
+	{
+		"id": "5",
+		"sex": "male",
+		"age": "22",
+		"evidence": [
+			{
+				"id": "s_418",
+				"choice": "absent"
+			},
+			{
+				"id": "s_488",
+				"choice": "absent"
+			},
+			{
+				"id": "s_418",
+				"choice": "unknown"
+			}
+		]
+	},
+	{
+		"id": "6",
+		"sex": "male",
+		"age": "35",
+		"evidence": [
+			{
+				"id": "s_488",
+				"choice": "absent"
+			},
+			{
+				"id": "s_418",
+				"choice": "absent"
+			},
+			{
+				"id": "s_1193",
+				"choice": "unknown"
+			}
+		]
+	},
+	{
+		"id": "7",
+		"sex": "male",
+		"age": "45",
+		"evidence": [
+			{
+				"id": "s_418",
+				"choice": "present"
+			},
+			{
+				"id": "s_488",
+				"choice": "unknown"
+			},
+			{
+				"id": "s_488",
+				"choice": "absent"
+			}
+		]
+	},
+	{
+		"id": "8",
+		"sex": "female",
+		"age": "44",
+		"evidence": [
+			{
+				"id": "s_418",
+				"choice": "absent"
+			},
+			{
+				"id": "s_418",
+				"choice": "present"
+			},
+			{
+				"id": "s_1193",
+				"choice": "absent"
+			}
+		]
+	},
+	{
+		"id": "9",
+		"sex": "female",
+		"age": "22",
+		"evidence": [
+			{
+				"id": "s_488",
+				"choice": "absent"
+			},
+			{
+				"id": "s_418",
+				"choice": "unknown"
+			},
+			{
+				"id": "s_418",
+				"choice": "present"
+			}
+		]
+	},
+	{
+		"id": "10",
+		"sex": "female",
+		"age": "54",
+		"evidence": [
+			{
+				"id": "s_1193",
+				"choice": "unknown"
+			},
+			{
+				"id": "s_418",
+				"choice": "present"
+			},
+			{
+				"id": "s_418",
+				"choice": "unknown"
+			}
+		]
+	},
+	{
+		"id": "11",
+		"sex": "male",
+		"age": "30",
+		"evidence": [
+			{
+				"id": "s_488",
+				"choice": "present"
+			},
+			{
+				"id": "s_488",
+				"choice": "unknown"
+			},
+			{
+				"id": "s_488",
+				"choice": "present"
+			}
+		]
+	},
+	{
+		"id": "12",
+		"sex": "female",
+		"age": "65",
+		"evidence": [
+			{
+				"id": "s_418",
+				"choice": "absent"
+			},
+			{
+				"id": "s_1193",
+				"choice": "absent"
+			},
+			{
+				"id": "s_1193",
+				"choice": "absent"
+			}
+		]
+	},
+	{
+		"id": "13",
+		"sex": "female",
+		"age": "43",
+		"evidence": [
+			{
+				"id": "s_488",
+				"choice": "unknown"
+			},
+			{
+				"id": "s_418",
+				"choice": "present"
+			},
+			{
+				"id": "s_418",
+				"choice": "present"
+			}
+		]
+	},
+	{
+		"id": "14",
+		"sex": "female",
+		"age": "35",
+		"evidence": [
+			{
+				"id": "s_1193",
+				"choice": "unknown"
+			},
+			{
+				"id": "s_418",
+				"choice": "present"
+			},
+			{
+				"id": "s_488",
+				"choice": "absent"
+			}
+		]
+	},
+	{
+		"id": "15",
+		"sex": "female",
+		"age": "21",
+		"evidence": [
+			{
+				"id": "s_488",
+				"choice": "present"
+			},
+			{
+				"id": "s_1193",
+				"choice": "unknown"
+			},
+			{
+				"id": "s_1193",
+				"choice": "unknown"
+			}
+		]
+	},
+	{
+		"id": "16",
+		"sex": "male",
+		"age": "44",
+		"evidence": [
+			{
+				"id": "s_1193",
+				"choice": "absent"
+			},
+			{
+				"id": "s_488",
+				"choice": "unknown"
+			},
+			{
+				"id": "s_1193",
+				"choice": "unknown"
+			}
+		]
+	},
+	{
+		"id": "17",
+		"sex": "male",
+		"age": "70",
+		"evidence": [
+			{
+				"id": "s_488",
+				"choice": "unknown"
+			},
+			{
+				"id": "s_488",
+				"choice": "present"
+			},
+			{
+				"id": "s_418",
+				"choice": "present"
+			}
+		]
+	},
+	{
+		"id": "18",
+		"sex": "female",
+		"age": "54",
+		"evidence": [
+			{
+				"id": "s_1193",
+				"choice": "absent"
+			},
+			{
+				"id": "s_488",
+				"choice": "absent"
+			},
+			{
+				"id": "s_1193",
+				"choice": "unknown"
+			}
+		]
+	},
+	{
+		"id": "19",
+		"sex": "male",
+		"age": "29",
+		"evidence": [
+			{
+				"id": "s_418",
+				"choice": "present"
+			},
+			{
+				"id": "s_418",
+				"choice": "present"
+			},
+			{
+				"id": "s_1193",
+				"choice": "unknown"
+			}
+		]
+	},
+	{
+		"id": "20",
+		"sex": "female",
+		"age": "37",
+		"evidence": [
+			{
+				"id": "s_488",
+				"choice": "unknown"
+			},
+			{
+				"id": "s_418",
+				"choice": "present"
+			},
+			{
+				"id": "s_1193",
+				"choice": "unknown"
+			}
+		]
+	},
+	{
+		"id": "21",
+		"sex": "female",
+		"age": "53",
+		"evidence": [
+			{
+				"id": "s_418",
+				"choice": "unknown"
+			},
+			{
+				"id": "s_488",
+				"choice": "unknown"
+			},
+			{
+				"id": "s_1193",
+				"choice": "absent"
+			}
+		]
+	},
+	{
+		"id": "22",
+		"sex": "female",
+		"age": "70",
+		"evidence": [
+			{
+				"id": "s_418",
+				"choice": "unknown"
+			},
+			{
+				"id": "s_1193",
+				"choice": "unknown"
+			},
+			{
+				"id": "s_1193",
+				"choice": "absent"
+			}
+		]
+	},
+	{
+		"id": "23",
+		"sex": "male",
+		"age": "55",
+		"evidence": [
+			{
+				"id": "s_418",
+				"choice": "absent"
+			},
+			{
+				"id": "s_488",
+				"choice": "absent"
+			},
+			{
+				"id": "s_1193",
+				"choice": "unknown"
+			}
+		]
+	},
+	{
+		"id": "24",
+		"sex": "female",
+		"age": "66",
+		"evidence": [
+			{
+				"id": "s_418",
+				"choice": "absent"
+			},
+			{
+				"id": "s_1193",
+				"choice": "present"
+			},
+			{
+				"id": "s_418",
+				"choice": "unknown"
+			}
+		]
+	},
+	{
+		"id": "25",
+		"sex": "male",
+		"age": "62",
+		"evidence": [
+			{
+				"id": "s_488",
+				"choice": "absent"
+			},
+			{
+				"id": "s_418",
+				"choice": "absent"
+			},
+			{
+				"id": "s_1193",
+				"choice": "absent"
+			}
+		]
+	},
+	{
+		"id": "26",
+		"sex": "female",
+		"age": "45",
+		"evidence": [
+			{
+				"id": "s_1193",
+				"choice": "absent"
+			},
+			{
+				"id": "s_488",
+				"choice": "unknown"
+			},
+			{
+				"id": "s_488",
+				"choice": "absent"
+			}
+		]
+	},
+	{
+		"id": "27",
+		"sex": "female",
+		"age": "55",
+		"evidence": [
+			{
+				"id": "s_488",
+				"choice": "absent"
+			},
+			{
+				"id": "s_418",
+				"choice": "absent"
+			},
+			{
+				"id": "s_418",
+				"choice": "absent"
+			}
+		]
+	},
+	{
+		"id": "28",
+		"sex": "male",
+		"age": "32",
+		"evidence": [
+			{
+				"id": "s_488",
+				"choice": "present"
+			},
+			{
+				"id": "s_418",
+				"choice": "unknown"
+			},
+			{
+				"id": "s_1193",
+				"choice": "unknown"
+			}
+		]
+	},
+	{
+		"id": "29",
+		"sex": "male",
+		"age": "63",
+		"evidence": [
+			{
+				"id": "s_1193",
+				"choice": "present"
+			},
+			{
+				"id": "s_418",
+				"choice": "present"
+			},
+			{
+				"id": "s_418",
+				"choice": "present"
+			}
+		]
+	},
+	{
+		"id": "30",
+		"sex": "female",
+		"age": "23",
+		"evidence": [
+			{
+				"id": "s_418",
+				"choice": "unknown"
+			},
+			{
+				"id": "s_1193",
+				"choice": "present"
+			},
+			{
+				"id": "s_418",
+				"choice": "present"
+			}
+		]
+	},
+	{
+		"id": "31",
+		"sex": "male",
+		"age": "64",
+		"evidence": [
+			{
+				"id": "s_1193",
+				"choice": "present"
+			},
+			{
+				"id": "s_418",
+				"choice": "unknown"
+			},
+			{
+				"id": "s_418",
+				"choice": "unknown"
+			}
+		]
+	},
+	{
+		"id": "32",
+		"sex": "male",
+		"age": "47",
+		"evidence": [
+			{
+				"id": "s_418",
+				"choice": "present"
+			},
+			{
+				"id": "s_488",
+				"choice": "present"
+			},
+			{
+				"id": "s_1193",
+				"choice": "unknown"
+			}
+		]
+	},
+	{
+		"id": "33",
+		"sex": "female",
+		"age": "31",
+		"evidence": [
+			{
+				"id": "s_1193",
+				"choice": "present"
+			},
+			{
+				"id": "s_488",
+				"choice": "unknown"
+			},
+			{
+				"id": "s_488",
+				"choice": "present"
+			}
+		]
+	},
+	{
+		"id": "34",
+		"sex": "female",
+		"age": "67",
+		"evidence": [
+			{
+				"id": "s_488",
+				"choice": "unknown"
+			},
+			{
+				"id": "s_1193",
+				"choice": "absent"
+			},
+			{
+				"id": "s_418",
+				"choice": "unknown"
+			}
+		]
+	},
+	{
+		"id": "35",
+		"sex": "male",
+		"age": "35",
+		"evidence": [
+			{
+				"id": "s_488",
+				"choice": "absent"
+			},
+			{
+				"id": "s_418",
+				"choice": "absent"
+			},
+			{
+				"id": "s_488",
+				"choice": "unknown"
+			}
+		]
+	},
+	{
+		"id": "36",
+		"sex": "male",
+		"age": "50",
+		"evidence": [
+			{
+				"id": "s_418",
+				"choice": "unknown"
+			},
+			{
+				"id": "s_1193",
+				"choice": "present"
+			},
+			{
+				"id": "s_418",
+				"choice": "unknown"
+			}
+		]
+	},
+	{
+		"id": "37",
+		"sex": "female",
+		"age": "65",
+		"evidence": [
+			{
+				"id": "s_488",
+				"choice": "absent"
+			},
+			{
+				"id": "s_1193",
+				"choice": "unknown"
+			},
+			{
+				"id": "s_488",
+				"choice": "present"
+			}
+		]
+	},
+	{
+		"id": "38",
+		"sex": "male",
+		"age": "56",
+		"evidence": [
+			{
+				"id": "s_418",
+				"choice": "unknown"
+			},
+			{
+				"id": "s_488",
+				"choice": "present"
+			},
+			{
+				"id": "s_418",
+				"choice": "present"
+			}
+		]
+	},
+	{
+		"id": "39",
+		"sex": "male",
+		"age": "63",
+		"evidence": [
+			{
+				"id": "s_488",
+				"choice": "unknown"
+			},
+			{
+				"id": "s_418",
+				"choice": "absent"
+			},
+			{
+				"id": "s_1193",
+				"choice": "unknown"
+			}
+		]
+	},
+	{
+		"id": "40",
+		"sex": "male",
+		"age": "65",
+		"evidence": [
+			{
+				"id": "s_1193",
+				"choice": "unknown"
+			},
+			{
+				"id": "s_1193",
+				"choice": "absent"
+			},
+			{
+				"id": "s_1193",
+				"choice": "absent"
+			}
+		]
+	},
+	{
+		"id": "41",
+		"sex": "female",
+		"age": "53",
+		"evidence": [
+			{
+				"id": "s_488",
+				"choice": "absent"
+			},
+			{
+				"id": "s_1193",
+				"choice": "present"
+			},
+			{
+				"id": "s_418",
+				"choice": "present"
+			}
+		]
+	},
+	{
+		"id": "42",
+		"sex": "male",
+		"age": "25",
+		"evidence": [
+			{
+				"id": "s_1193",
+				"choice": "unknown"
+			},
+			{
+				"id": "s_1193",
+				"choice": "present"
+			},
+			{
+				"id": "s_418",
+				"choice": "absent"
+			}
+		]
+	},
+	{
+		"id": "43",
+		"sex": "male",
+		"age": "56",
+		"evidence": [
+			{
+				"id": "s_418",
+				"choice": "absent"
+			},
+			{
+				"id": "s_418",
+				"choice": "absent"
+			},
+			{
+				"id": "s_1193",
+				"choice": "present"
+			}
+		]
+	},
+	{
+		"id": "44",
+		"sex": "male",
+		"age": "31",
+		"evidence": [
+			{
+				"id": "s_488",
+				"choice": "unknown"
+			},
+			{
+				"id": "s_488",
+				"choice": "unknown"
+			},
+			{
+				"id": "s_418",
+				"choice": "present"
+			}
+		]
+	},
+	{
+		"id": "45",
+		"sex": "female",
+		"age": "22",
+		"evidence": [
+			{
+				"id": "s_488",
+				"choice": "unknown"
+			},
+			{
+				"id": "s_488",
+				"choice": "unknown"
+			},
+			{
+				"id": "s_1193",
+				"choice": "present"
+			}
+		]
+	},
+	{
+		"id": "46",
+		"sex": "male",
+		"age": "67",
+		"evidence": [
+			{
+				"id": "s_1193",
+				"choice": "unknown"
+			},
+			{
+				"id": "s_1193",
+				"choice": "absent"
+			},
+			{
+				"id": "s_418",
+				"choice": "present"
+			}
+		]
+	},
+	{
+		"id": "47",
+		"sex": "male",
+		"age": "36",
+		"evidence": [
+			{
+				"id": "s_1193",
+				"choice": "unknown"
+			},
+			{
+				"id": "s_418",
+				"choice": "present"
+			},
+			{
+				"id": "s_418",
+				"choice": "unknown"
+			}
+		]
+	},
+	{
+		"id": "48",
+		"sex": "female",
+		"age": "19",
+		"evidence": [
+			{
+				"id": "s_488",
+				"choice": "present"
+			},
+			{
+				"id": "s_488",
+				"choice": "present"
+			},
+			{
+				"id": "s_488",
+				"choice": "present"
+			}
+		]
+	},
+	{
+		"id": "49",
+		"sex": "male",
+		"age": "42",
+		"evidence": [
+			{
+				"id": "s_488",
+				"choice": "absent"
+			},
+			{
+				"id": "s_488",
+				"choice": "unknown"
+			},
+			{
+				"id": "s_418",
+				"choice": "unknown"
+			}
+		]
+	},
+	{
+		"id": "50",
+		"sex": "female",
+		"age": "38",
+		"evidence": [
+			{
+				"id": "s_418",
+				"choice": "present"
+			},
+			{
+				"id": "s_418",
+				"choice": "unknown"
+			},
+			{
+				"id": "s_1193",
+				"choice": "unknown"
+			}
+		]
+	},
+	{
+		"id": "51",
+		"sex": "male",
+		"age": "23",
+		"evidence": [
+			{
+				"id": "s_1193",
+				"choice": "absent"
+			},
+			{
+				"id": "s_1193",
+				"choice": "present"
+			},
+			{
+				"id": "s_418",
+				"choice": "absent"
+			}
+		]
+	},
+	{
+		"id": "52",
+		"sex": "male",
+		"age": "67",
+		"evidence": [
+			{
+				"id": "s_418",
+				"choice": "absent"
+			},
+			{
+				"id": "s_488",
+				"choice": "present"
+			},
+			{
+				"id": "s_418",
+				"choice": "present"
+			}
+		]
+	},
+	{
+		"id": "53",
+		"sex": "male",
+		"age": "23",
+		"evidence": [
+			{
+				"id": "s_488",
+				"choice": "unknown"
+			},
+			{
+				"id": "s_488",
+				"choice": "absent"
+			},
+			{
+				"id": "s_488",
+				"choice": "absent"
+			}
+		]
+	},
+	{
+		"id": "54",
+		"sex": "female",
+		"age": "39",
+		"evidence": [
+			{
+				"id": "s_1193",
+				"choice": "present"
+			},
+			{
+				"id": "s_418",
+				"choice": "absent"
+			},
+			{
+				"id": "s_418",
+				"choice": "absent"
+			}
+		]
+	},
+	{
+		"id": "55",
+		"sex": "male",
+		"age": "50",
+		"evidence": [
+			{
+				"id": "s_1193",
+				"choice": "unknown"
+			},
+			{
+				"id": "s_418",
+				"choice": "absent"
+			},
+			{
+				"id": "s_488",
+				"choice": "unknown"
+			}
+		]
+	},
+	{
+		"id": "56",
+		"sex": "male",
+		"age": "26",
+		"evidence": [
+			{
+				"id": "s_488",
+				"choice": "absent"
+			},
+			{
+				"id": "s_418",
+				"choice": "absent"
+			},
+			{
+				"id": "s_1193",
+				"choice": "absent"
+			}
+		]
+	},
+	{
+		"id": "57",
+		"sex": "female",
+		"age": "29",
+		"evidence": [
+			{
+				"id": "s_488",
+				"choice": "absent"
+			},
+			{
+				"id": "s_418",
+				"choice": "unknown"
+			},
+			{
+				"id": "s_418",
+				"choice": "unknown"
+			}
+		]
+	},
+	{
+		"id": "58",
+		"sex": "male",
+		"age": "47",
+		"evidence": [
+			{
+				"id": "s_488",
+				"choice": "absent"
+			},
+			{
+				"id": "s_1193",
+				"choice": "present"
+			},
+			{
+				"id": "s_488",
+				"choice": "present"
+			}
+		]
+	},
+	{
+		"id": "59",
+		"sex": "female",
+		"age": "33",
+		"evidence": [
+			{
+				"id": "s_418",
+				"choice": "absent"
+			},
+			{
+				"id": "s_1193",
+				"choice": "present"
+			},
+			{
+				"id": "s_1193",
+				"choice": "absent"
+			}
+		]
+	},
+	{
+		"id": "60",
+		"sex": "male",
+		"age": "23",
+		"evidence": [
+			{
+				"id": "s_1193",
+				"choice": "absent"
+			},
+			{
+				"id": "s_1193",
+				"choice": "present"
+			},
+			{
+				"id": "s_1193",
+				"choice": "unknown"
+			}
+		]
+	},
+	{
+		"id": "61",
+		"sex": "male",
+		"age": "50",
+		"evidence": [
+			{
+				"id": "s_418",
+				"choice": "absent"
+			},
+			{
+				"id": "s_418",
+				"choice": "absent"
+			},
+			{
+				"id": "s_418",
+				"choice": "absent"
+			}
+		]
+	},
+	{
+		"id": "62",
+		"sex": "male",
+		"age": "62",
+		"evidence": [
+			{
+				"id": "s_418",
+				"choice": "absent"
+			},
+			{
+				"id": "s_488",
+				"choice": "present"
+			},
+			{
+				"id": "s_418",
+				"choice": "absent"
+			}
+		]
+	},
+	{
+		"id": "63",
+		"sex": "female",
+		"age": "44",
+		"evidence": [
+			{
+				"id": "s_1193",
+				"choice": "present"
+			},
+			{
+				"id": "s_488",
+				"choice": "present"
+			},
+			{
+				"id": "s_488",
+				"choice": "unknown"
+			}
+		]
+	},
+	{
+		"id": "64",
+		"sex": "female",
+		"age": "57",
+		"evidence": [
+			{
+				"id": "s_418",
+				"choice": "unknown"
+			},
+			{
+				"id": "s_418",
+				"choice": "present"
+			},
+			{
+				"id": "s_488",
+				"choice": "unknown"
+			}
+		]
+	},
+	{
+		"id": "65",
+		"sex": "male",
+		"age": "47",
+		"evidence": [
+			{
+				"id": "s_1193",
+				"choice": "unknown"
+			},
+			{
+				"id": "s_488",
+				"choice": "absent"
+			},
+			{
+				"id": "s_418",
+				"choice": "unknown"
+			}
+		]
+	},
+	{
+		"id": "66",
+		"sex": "female",
+		"age": "23",
+		"evidence": [
+			{
+				"id": "s_488",
+				"choice": "unknown"
+			},
+			{
+				"id": "s_1193",
+				"choice": "unknown"
+			},
+			{
+				"id": "s_1193",
+				"choice": "present"
+			}
+		]
+	},
+	{
+		"id": "67",
+		"sex": "male",
+		"age": "39",
+		"evidence": [
+			{
+				"id": "s_488",
+				"choice": "present"
+			},
+			{
+				"id": "s_488",
+				"choice": "unknown"
+			},
+			{
+				"id": "s_488",
+				"choice": "unknown"
+			}
+		]
+	},
+	{
+		"id": "68",
+		"sex": "male",
+		"age": "18",
+		"evidence": [
+			{
+				"id": "s_1193",
+				"choice": "absent"
+			},
+			{
+				"id": "s_488",
+				"choice": "present"
+			},
+			{
+				"id": "s_418",
+				"choice": "absent"
+			}
+		]
+	},
+	{
+		"id": "69",
+		"sex": "male",
+		"age": "45",
+		"evidence": [
+			{
+				"id": "s_488",
+				"choice": "absent"
+			},
+			{
+				"id": "s_418",
+				"choice": "present"
+			},
+			{
+				"id": "s_1193",
+				"choice": "absent"
+			}
+		]
+	},
+	{
+		"id": "70",
+		"sex": "female",
+		"age": "35",
+		"evidence": [
+			{
+				"id": "s_418",
+				"choice": "unknown"
+			},
+			{
+				"id": "s_418",
+				"choice": "present"
+			},
+			{
+				"id": "s_1193",
+				"choice": "unknown"
+			}
+		]
+	},
+	{
+		"id": "71",
+		"sex": "female",
+		"age": "23",
+		"evidence": [
+			{
+				"id": "s_418",
+				"choice": "present"
+			},
+			{
+				"id": "s_488",
+				"choice": "absent"
+			},
+			{
+				"id": "s_1193",
+				"choice": "present"
+			}
+		]
+	},
+	{
+		"id": "72",
+		"sex": "male",
+		"age": "21",
+		"evidence": [
+			{
+				"id": "s_488",
+				"choice": "absent"
+			},
+			{
+				"id": "s_1193",
+				"choice": "unknown"
+			},
+			{
+				"id": "s_1193",
+				"choice": "absent"
+			}
+		]
+	},
+	{
+		"id": "73",
+		"sex": "female",
+		"age": "54",
+		"evidence": [
+			{
+				"id": "s_418",
+				"choice": "present"
+			},
+			{
+				"id": "s_418",
+				"choice": "unknown"
+			},
+			{
+				"id": "s_1193",
+				"choice": "absent"
+			}
+		]
+	},
+	{
+		"id": "74",
+		"sex": "male",
+		"age": "69",
+		"evidence": [
+			{
+				"id": "s_418",
+				"choice": "present"
+			},
+			{
+				"id": "s_1193",
+				"choice": "present"
+			},
+			{
+				"id": "s_418",
+				"choice": "present"
+			}
+		]
+	},
+	{
+		"id": "75",
+		"sex": "male",
+		"age": "48",
+		"evidence": [
+			{
+				"id": "s_1193",
+				"choice": "absent"
+			},
+			{
+				"id": "s_1193",
+				"choice": "absent"
+			},
+			{
+				"id": "s_418",
+				"choice": "absent"
+			}
+		]
+	},
+	{
+		"id": "76",
+		"sex": "male",
+		"age": "33",
+		"evidence": [
+			{
+				"id": "s_418",
+				"choice": "unknown"
+			},
+			{
+				"id": "s_418",
+				"choice": "absent"
+			},
+			{
+				"id": "s_418",
+				"choice": "present"
+			}
+		]
+	},
+	{
+		"id": "77",
+		"sex": "female",
+		"age": "42",
+		"evidence": [
+			{
+				"id": "s_488",
+				"choice": "absent"
+			},
+			{
+				"id": "s_488",
+				"choice": "present"
+			},
+			{
+				"id": "s_488",
+				"choice": "absent"
+			}
+		]
+	},
+	{
+		"id": "78",
+		"sex": "female",
+		"age": "22",
+		"evidence": [
+			{
+				"id": "s_418",
+				"choice": "unknown"
+			},
+			{
+				"id": "s_418",
+				"choice": "absent"
+			},
+			{
+				"id": "s_418",
+				"choice": "absent"
+			}
+		]
+	},
+	{
+		"id": "79",
+		"sex": "female",
+		"age": "61",
+		"evidence": [
+			{
+				"id": "s_1193",
+				"choice": "present"
+			},
+			{
+				"id": "s_488",
+				"choice": "present"
+			},
+			{
+				"id": "s_1193",
+				"choice": "present"
+			}
+		]
+	},
+	{
+		"id": "80",
+		"sex": "male",
+		"age": "19",
+		"evidence": [
+			{
+				"id": "s_418",
+				"choice": "unknown"
+			},
+			{
+				"id": "s_1193",
+				"choice": "present"
+			},
+			{
+				"id": "s_488",
+				"choice": "unknown"
+			}
+		]
+	},
+	{
+		"id": "81",
+		"sex": "male",
+		"age": "43",
+		"evidence": [
+			{
+				"id": "s_1193",
+				"choice": "absent"
+			},
+			{
+				"id": "s_1193",
+				"choice": "absent"
+			},
+			{
+				"id": "s_1193",
+				"choice": "present"
+			}
+		]
+	},
+	{
+		"id": "82",
+		"sex": "male",
+		"age": "45",
+		"evidence": [
+			{
+				"id": "s_1193",
+				"choice": "present"
+			},
+			{
+				"id": "s_1193",
+				"choice": "present"
+			},
+			{
+				"id": "s_488",
+				"choice": "present"
+			}
+		]
+	},
+	{
+		"id": "83",
+		"sex": "male",
+		"age": "36",
+		"evidence": [
+			{
+				"id": "s_418",
+				"choice": "unknown"
+			},
+			{
+				"id": "s_488",
+				"choice": "absent"
+			},
+			{
+				"id": "s_488",
+				"choice": "present"
+			}
+		]
+	},
+	{
+		"id": "84",
+		"sex": "male",
+		"age": "25",
+		"evidence": [
+			{
+				"id": "s_418",
+				"choice": "present"
+			},
+			{
+				"id": "s_1193",
+				"choice": "present"
+			},
+			{
+				"id": "s_1193",
+				"choice": "absent"
+			}
+		]
+	},
+	{
+		"id": "85",
+		"sex": "female",
+		"age": "24",
+		"evidence": [
+			{
+				"id": "s_418",
+				"choice": "unknown"
+			},
+			{
+				"id": "s_418",
+				"choice": "absent"
+			},
+			{
+				"id": "s_1193",
+				"choice": "unknown"
+			}
+		]
+	},
+	{
+		"id": "86",
+		"sex": "female",
+		"age": "43",
+		"evidence": [
+			{
+				"id": "s_1193",
+				"choice": "absent"
+			},
+			{
+				"id": "s_488",
+				"choice": "absent"
+			},
+			{
+				"id": "s_418",
+				"choice": "unknown"
+			}
+		]
+	},
+	{
+		"id": "87",
+		"sex": "male",
+		"age": "20",
+		"evidence": [
+			{
+				"id": "s_418",
+				"choice": "unknown"
+			},
+			{
+				"id": "s_418",
+				"choice": "unknown"
+			},
+			{
+				"id": "s_488",
+				"choice": "absent"
+			}
+		]
+	},
+	{
+		"id": "88",
+		"sex": "female",
+		"age": "27",
+		"evidence": [
+			{
+				"id": "s_488",
+				"choice": "present"
+			},
+			{
+				"id": "s_1193",
+				"choice": "present"
+			},
+			{
+				"id": "s_488",
+				"choice": "present"
+			}
+		]
+	},
+	{
+		"id": "89",
+		"sex": "male",
+		"age": "21",
+		"evidence": [
+			{
+				"id": "s_418",
+				"choice": "unknown"
+			},
+			{
+				"id": "s_1193",
+				"choice": "absent"
+			},
+			{
+				"id": "s_1193",
+				"choice": "present"
+			}
+		]
+	},
+	{
+		"id": "90",
+		"sex": "male",
+		"age": "68",
+		"evidence": [
+			{
+				"id": "s_1193",
+				"choice": "present"
+			},
+			{
+				"id": "s_418",
+				"choice": "present"
+			},
+			{
+				"id": "s_418",
+				"choice": "unknown"
+			}
+		]
+	},
+	{
+		"id": "91",
+		"sex": "female",
+		"age": "48",
+		"evidence": [
+			{
+				"id": "s_418",
+				"choice": "unknown"
+			},
+			{
+				"id": "s_1193",
+				"choice": "unknown"
+			},
+			{
+				"id": "s_418",
+				"choice": "absent"
+			}
+		]
+	},
+	{
+		"id": "92",
+		"sex": "male",
+		"age": "23",
+		"evidence": [
+			{
+				"id": "s_1193",
+				"choice": "absent"
+			},
+			{
+				"id": "s_1193",
+				"choice": "absent"
+			},
+			{
+				"id": "s_488",
+				"choice": "unknown"
+			}
+		]
+	},
+	{
+		"id": "93",
+		"sex": "male",
+		"age": "26",
+		"evidence": [
+			{
+				"id": "s_1193",
+				"choice": "absent"
+			},
+			{
+				"id": "s_418",
+				"choice": "unknown"
+			},
+			{
+				"id": "s_488",
+				"choice": "absent"
+			}
+		]
+	},
+	{
+		"id": "94",
+		"sex": "female",
+		"age": "38",
+		"evidence": [
+			{
+				"id": "s_418",
+				"choice": "unknown"
+			},
+			{
+				"id": "s_1193",
+				"choice": "present"
+			},
+			{
+				"id": "s_488",
+				"choice": "unknown"
+			}
+		]
+	},
+	{
+		"id": "95",
+		"sex": "female",
+		"age": "46",
+		"evidence": [
+			{
+				"id": "s_488",
+				"choice": "absent"
+			},
+			{
+				"id": "s_418",
+				"choice": "absent"
+			},
+			{
+				"id": "s_488",
+				"choice": "absent"
+			}
+		]
+	},
+	{
+		"id": "96",
+		"sex": "female",
+		"age": "37",
+		"evidence": [
+			{
+				"id": "s_418",
+				"choice": "present"
+			},
+			{
+				"id": "s_1193",
+				"choice": "present"
+			},
+			{
+				"id": "s_418",
+				"choice": "unknown"
+			}
+		]
+	},
+	{
+		"id": "97",
+		"sex": "female",
+		"age": "29",
+		"evidence": [
+			{
+				"id": "s_418",
+				"choice": "absent"
+			},
+			{
+				"id": "s_488",
+				"choice": "absent"
+			},
+			{
+				"id": "s_1193",
+				"choice": "unknown"
+			}
+		]
+	},
+	{
+		"id": "98",
+		"sex": "male",
+		"age": "39",
+		"evidence": [
+			{
+				"id": "s_1193",
+				"choice": "present"
+			},
+			{
+				"id": "s_418",
+				"choice": "present"
+			},
+			{
+				"id": "s_488",
+				"choice": "unknown"
+			}
+		]
+	},
+	{
+		"id": "99",
+		"sex": "male",
+		"age": "54",
+		"evidence": [
+			{
+				"id": "s_488",
+				"choice": "absent"
+			},
+			{
+				"id": "s_488",
+				"choice": "absent"
+			},
+			{
+				"id": "s_418",
+				"choice": "absent"
+			}
+		]
+	}
+]
